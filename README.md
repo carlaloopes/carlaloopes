@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho  em uma empresa  de grande porte, nada relacionado a programação
 - 🌱 Estou aprendendo HTML e  CSS3
-- 😊 Estou sendo auxilida e direcionada nessa aréa
+- 😊 Estou sendo auxiliada e direcionada nessa aréa 
 - 😄 Pronome:ela/dela
 
 
